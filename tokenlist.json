@@ -1,0 +1,19 @@
+{
+  "name": "Gorilla Prime Token List",
+  "timestamp": "2025-06-27T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x8b3ad41a938e27d30ed71765236f771102e746a9",
+      "name": "Gorilla Prime",
+      "symbol": "GPRIME",
+      "decimals": 18,
+      "logoURI": "https://chat.openai.com/mnt/data/gorilla-prime-logo.png"
+    }
+  ]
+}
